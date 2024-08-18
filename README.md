@@ -1,4 +1,4 @@
-### Hi there I am Mitra 👋
+### Hi there I am Mitra  N Mishra 👋
 
 <!--
 - ⚡ Fun fact: ...
@@ -10,7 +10,6 @@
 -->
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Generative AI
 - 🌱 I’m currently learning Generative AI - Large Language Model
