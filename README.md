@@ -17,10 +17,25 @@
 
 
 
+## 🚀 Featured Project: Multi-Agent AI Assistant
+
+A multi-agent assistant built with **LangChain**, **LangGraph** and **OpenAI**, with a password-protected **Streamlit** web UI.
+
+- 🧭 **Supervisor agent** that reads each question and hands it to the right specialist
+- 🌤️ **Weather agent** with live data from the Open-Meteo API
+- 🧮 **Math agent** with a safe calculator tool (no arbitrary code execution)
+- 🛒 **Shopping agent** that searches and compares products across two online stores and manages a per-user cart
+- 🔐 Production-ready setup: secrets management, per-session state, pinned dependencies, built for Streamlit Community Cloud
+
+**Stack:** Python · LangChain · LangGraph · OpenAI · Streamlit · REST APIs
+
+
+
 ## 🔧 Technologies & Tools
 
 - **Programming Languages**: Python, SQL, Bash Script, PHP, Javascript
-- **Libraries & Frameworks**: TensorFlow, PyTorch, Keras, Scikit-Learn, Langchain
+- **Libraries & Frameworks**: TensorFlow, PyTorch, Keras, Scikit-Learn, LangChain, LangGraph, Streamlit
+- **Generative AI**: LLM agents, multi-agent systems, tool calling, OpenAI API
 - **NLP Tools**: Hugging Face Transformers, NLTK, SpaCy, GPT, BERT
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Data Engineering**: Pyspark, Hadoop, Hive
